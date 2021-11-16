@@ -189,6 +189,12 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+
+section.neutral {
+  background: #99739e;
+  color: white;
+}
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
